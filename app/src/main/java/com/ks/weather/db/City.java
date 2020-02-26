@@ -3,6 +3,7 @@ package com.ks.weather.db;
 /**
  * Created by 窦浩鹏 on 2020/2/26.
  */
+import org.litepal.crud.DataSupport;
 
 public class City {
     private int id;
